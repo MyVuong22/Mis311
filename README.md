@@ -1,5 +1,8 @@
 # Mis311
+“Part 1:
+Data Analysis and Insight”
 1. Data Overview
+   
 	This document contains data on international arrivals to various countries around the world.It includes figures for key time periods:
 +	Forecasted numbers up to 2024.
 +	Actual arrivals in 2023 and 2022.
