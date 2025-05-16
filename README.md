@@ -1,7 +1,8 @@
 # Mis311
 “Part 1:
 Data Analysis and Insight”
-1. Data Overview
+
+1.Data Overview
    
 	This document contains data on international arrivals to various countries around the world.It includes figures for key time periods:
 +	Forecasted numbers up to 2024.
@@ -23,7 +24,8 @@ To handle missing data, we can use some methods such as filling in with the cont
   3. Descriptive Statistics
 *	Insight table of  Top 5 most visited countries in 2023:
   
-<img width="216" alt="image" src="https://github.com/user-attachments/assets/34b30c7f-972e-44a3-9ac9-b212027b1127" />
+<img width="250" alt="image" src="https://github.com/user-attachments/assets/be565dd6-0b9d-4729-bd04-c530034deb5f" />
+
 
 
 	Based on the data table above, we know that the top 5 countries with the most visits in 2023.
@@ -33,7 +35,8 @@ In addition, the United States and Spain are also considered the two countries w
 Ranked last in the top 5 countries is Mexico, although it is at the bottom of the top 5 in 2023, compared to other countries, Mexico is still a destination that attracts quite a lot of visitors.!
 *	Insights table of data of 5 Asian countries visited from 2019 to 2020
   
-*<img width="201" alt="image" src="https://github.com/user-attachments/assets/4eacc41a-b4f6-4048-a7d4-35666ba711bd" />
+<img width="313" alt="image" src="https://github.com/user-attachments/assets/81cd33a6-8df0-4c2b-a68f-560fab56cdf4" />
+
 
 The above data table shows that the four countries of Indonesia, Philippines, Vietnam and Singapore have maintained a stable number of visitors from 2019 to 2020, thereby showing that the plans and tourism trends of these countries have always remained stable, despite the difficulties and challenges of the global tourism industry at that time. 
 Based on the above data table, Thailand is a country that has been recorded to have a significant decrease in the number of visitors in the period 2019 to 2020 compared to other Asian countries in the region. This unexpected decrease may come from restrictions on national immigration laws or even from difficulties caused by the epidemic leading to travel restrictions, causing this decrease because Thailand is famous for tourism, so the above decrease causes a lot of damage and difficulties for the country during this period.
